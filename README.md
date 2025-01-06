@@ -34,7 +34,7 @@ Ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/Ayushgreat/Shoppyglobe_backend_Code.git
    cd shoppyglobe-backend
    ```
 

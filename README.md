@@ -122,6 +122,5 @@ You can use ThunderClient or any other API testing tool to test the following AP
 
 ## License
 
-This project is licensed under the MIT License. See the (LICENSE) file for details.
-
+This project is licensed under the MIT License.
 ---
